@@ -44,3 +44,11 @@ td {
     text-align: center;
     width: 25%;
 }
+
+a {
+    color: lightskyblue;
+}
+
+a:hover {
+    color: gold;
+}
